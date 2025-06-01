@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+  "layer0": "firstlearn:item/dahlia_seeds"
+}
+}
